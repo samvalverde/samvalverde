@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hey! 👋
+
+Mi nombre es Samuel Valverde, 
+
+  - Estoy cursando la carrera de Ingeniería en Computación en el Tecnológico de Costa Rica!
+  - Tengo 20 años :)
+  - Vivo en San José, Costa Rica
+  - Soy estudiante a tiempo completo...
+  - Busco aprender todo sobre las tecnologías que mueven el mundo de la computación!
+  - Actualmente manejo lo relacionado a:
+        -  Estructura de Datos
+        -  Programación Orientada a Objetos
+        -  Arquitectura de Computadores
+        -  Bases de Datos (relacionales y un poco de las no relacionales)
+        -  Análisis de Algoritmos
 
 <!--
 **samvalverde/samvalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
