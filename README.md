@@ -8,7 +8,7 @@ Mi nombre es Samuel Valverde,
   - Soy estudiante a tiempo completo...
   - Busco aprender todo sobre las tecnologías que mueven el mundo de la computación!
   - Actualmente manejo lo relacionado a:
-        -  Estructura de Datos
+        Estructuras de Datos
         -  Programación Orientada a Objetos
         -  Arquitectura de Computadores
         -  Bases de Datos (relacionales y un poco de las no relacionales)
