@@ -11,7 +11,7 @@ Mi nombre es Samuel Valverde,
   -  Estructuras de Datos
   -  Programación Orientada a Objetos
   -  Arquitectura de Computadores
-  -  Bases de Datos (relacionales y un poco de las no relacionales)
+  -  Bases de Datos (relacionales y no relacionales)
   -  Análisis de Algoritmos
 
 <!--
