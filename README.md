@@ -7,7 +7,9 @@ Soy Samuel Valverde,
   - San José, Costa Rica
   - Estudiante a tiempo completo...
   - Busco aprender de todo sobre las tecnologías que mueven el mundo de la computación.
-  
+
+  ****************************************************************************************************************
+
   -  Estructuras de Datos
   -  Programación Orientada a Objetos
   -  Arquitectura de Computadores
