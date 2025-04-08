@@ -1,17 +1,17 @@
-### Sup!
+### Un poco de mí :)
 
 Soy Samuel Valverde, 
 
-  - Estoy cursando la carrera de Ingeniería en Computación en el Tecnológico de Costa Rica.
-  - Tengo 20 años
-  - Vivo en San José, Costa Rica
-  - Soy estudiante a tiempo completo...
-  - Busco aprender todo sobre las tecnologías que mueven el mundo de la computación.
+  - Estudiante de cuarto año en la carrera de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica.
+  - 21 años
+  - San José, Costa Rica
+  - Estudiante a tiempo completo...
+  - Busco aprender de todo sobre las tecnologías que mueven el mundo de la computación.
   
   -  Estructuras de Datos
   -  Programación Orientada a Objetos
   -  Arquitectura de Computadores
-  -  Bases de Datos (relacionales y no relacionales)
+  -  Bases de Datos
   -  Análisis de Algoritmos
   -  Requerimientos de Software
   -  Administración de Proyectos
