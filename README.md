@@ -18,8 +18,9 @@ savalverde@estudiantec.cr | Samuel Valverde Arguedas
   -  Requerimientos de Software
   -  Administración de Proyectos
   -  Diseño de Software
+  -  Intro. a la Realidad Virtual
   -  Aseguramiento de la Calidad de Software
-  -  Biología Molecular Computacional
+  -  Intro. a la Biología Molecular Computacional
   -  Sistemas Operativos
   -  Redes
   -  Inteligencia Artificial
