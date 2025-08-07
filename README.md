@@ -1,14 +1,10 @@
-### Un poco de mí :)
+### About me
 
-Soy Samuel Valverde, 
-
-  - Estudiante de cuarto año en la carrera de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica.
-  - 21 años
-  - San José, Costa Rica
-  - Estudiante a tiempo completo...
-  - Busco aprender de todo sobre las tecnologías que mueven el mundo de la computación.
+Soy Samuel, un estudiante de último año en la carrera de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica. Tengo 21 años, vivo en San José, y actualmente soy estudiante a tiempo completo. 
 
   ****************************************************************************************************************
+
+## Cursos de interés
 
   -  Estructuras de Datos
   -  Programación Orientada a Objetos
@@ -18,6 +14,11 @@ Soy Samuel Valverde,
   -  Requerimientos de Software
   -  Administración de Proyectos
   -  Diseño de Software
+  -  Aseguramiento de la Calidad de Software
+  -  Biología Molecular Computacional
+  -  Sistemas Operativos
+  -  Redes
+  -  Inteligencia Artificial
 
 <!--
 **samvalverde/samvalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
