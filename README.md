@@ -1,41 +1,46 @@
-## About me
+# 👋 About Me  
 
-Soy Samuel, un estudiante de último año en la carrera de Ingeniería en Computación en el Instituto Tecnológico de Costa Rica. Tengo 21 años, vivo en San José, y actualmente soy estudiante a tiempo completo. Sin embargo, me encuentro en el proceso de buscar la mejor pasantía para mi práctica profesional (I Semestre 2026) y futura graduación!
+Hi! I’m **Samuel Valverde**, a final-year Computer Engineering student at **Instituto Tecnológico de Costa Rica**.  
+I’m passionate about building reliable, scalable, and impactful software solutions.  
 
-### Contacto
+My academic journey has given me a strong foundation in algorithms, data structures, and system design, while also letting me explore areas like **cloud computing, machine learning, and modern web development**.  
 
-savalverde@estudiantec.cr | Samuel Valverde Arguedas
+I’m currently seeking opportunities for my professional internship (expected for the first semester of 2026) and future graduation. Driven by curiosity and ambition, I’m eager to join real-world software development teams, take on meaningful challenges, and keep growing through hands-on experience.  
 
-  ****************************************************************************************************************
+---
 
-### Cursos de interés
+## 🛠️ Tech Stack  
 
-  -  Estructuras de Datos
-  -  Programación Orientada a Objetos
-  -  Arquitectura de Computadores
-  -  Bases de Datos
-  -  Análisis de Algoritmos
-  -  Requerimientos de Software
-  -  Administración de Proyectos
-  -  Diseño de Software
-  -  Intro. a la Realidad Virtual
-  -  Aseguramiento de la Calidad de Software
-  -  Intro. a la Biología Molecular Computacional
-  -  Sistemas Operativos
-  -  Redes
-  -  Inteligencia Artificial
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
-<!--
-**samvalverde/samvalverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📚 Relevant Coursework  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Structures & Algorithm Analysis  
+- Databases I & II
+- Artificial Intelligence
+- Software Quality Assurance
+- Software Design
+- Software Requirements Engineering   
+- Project Management 
+- Operating Systems     
+
+---
+
+## 📫 Contact  
+
+**Email:** samuel.valverde.2802@gmail.com  
+**LinkedIn:** [linkedin.com/in/samuelvalverdearguedas](https://www.linkedin.com/in/samuelvalverdearguedas)  
+**GitHub:** [github.com/samvalverde](https://github.com/samvalverde)  
