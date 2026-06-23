@@ -40,12 +40,11 @@ What drives me most as an engineer is growth through challenge. I enjoy stepping
 
 ### Engineering Interests
 
-* Backend Engineering
-* Distributed Systems
+* Full-Stack Engineering
 * Cloud Computing
 * AI Engineering
-* Cross-Platform Development
-* Software Architecture
+* Web Development
+* Cross-platform Mobile Development
 
 ---
 
