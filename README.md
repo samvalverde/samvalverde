@@ -1,46 +1,92 @@
-# 👋 About Me  
+# Hi, I'm Samuel Valverde
 
-Hi! I’m **Samuel Valverde**, a final-year Computer Engineering student at **Instituto Tecnológico de Costa Rica**.  
-I’m passionate about building reliable, scalable, and impactful software solutions.  
+Computer Engineering graduate candidate from **Instituto Tecnológico de Costa Rica (TEC)**, having completed all degree requirements and preparing to begin my professional career as a software engineer.
 
-My academic journey has given me a strong foundation in algorithms, data structures, and system design, while also letting me explore areas like **cloud computing, machine learning, and modern web development**.  
+My experience spans **backend systems, end-to-end product development, distributed architectures, and cross-platform mobile engineering**.
 
-I’m currently seeking opportunities for my professional internship (expected for the first semester of 2026) and future graduation. Driven by curiosity and ambition, I’m eager to join real-world software development teams, take on meaningful challenges, and keep growing through hands-on experience.  
+Most recently, I completed my professional internship at **Konrad Group**, where I contributed to **Neo Bank**, a production-grade digital banking application built for Android and iOS using **Kotlin Multiplatform** and **Compose Multiplatform**.
 
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+What drives me most as an engineer is growth through challenge. I enjoy stepping into unfamiliar technical domains, learning fast, and turning complex problems into clean, high-quality solutions.
 
 ---
 
-## 📚 Relevant Coursework  
+## Tech Stack
 
-- Data Structures & Algorithm Analysis  
-- Databases I & II
-- Artificial Intelligence
-- Software Quality Assurance
-- Software Design
-- Software Requirements Engineering   
-- Project Management 
-- Operating Systems     
+### Languages & Frameworks
+
+* Python
+* Kotlin
+* JavaScript / TypeScript
+* Java
+* C / C++
+* SQL
+* React
+* Flask
+* FastAPI
+* Node.js
+* Next.js
+* Compose Multiplatform
+
+### Infrastructure & Tools
+
+* Docker
+* Kubernetes
+* Linux
+* Git
+* Firebase
+* PostgreSQL
+* MongoDB
+* Redis
+
+### Engineering Interests
+
+* Backend Engineering
+* Distributed Systems
+* Cloud Computing
+* AI Engineering
+* Cross-Platform Development
+* Software Architecture
 
 ---
 
-## 📫 Contact  
+## Currently Learning
 
-**Email:** samuel.valverde.2802@gmail.com  
-**LinkedIn:** [linkedin.com/in/samuelvalverdearguedas](https://www.linkedin.com/in/samuelvalverdearguedas)  
-**GitHub:** [github.com/samvalverde](https://github.com/samvalverde)  
+I’m actively expanding my expertise in:
+
+* Cloud engineering with **AWS**
+* AI engineering and **LLM-powered applications**
+* Agentic workflows and AI-assisted development
+* Scalable system design and architecture
+
+Currently preparing for:
+
+* AWS Cloud Practitioner
+* AWS AI Practitioner
+
+---
+
+## Highlighted Projects
+
+### Neo Bank — Cross-Platform Digital Banking App
+
+Professional internship project at Konrad Group. Contributed to production-grade mobile development for Android and iOS using Kotlin Multiplatform and Compose Multiplatform.
+
+### Auctia — Automotive Marketplace Platform
+
+Designed a scalable end-to-end platform connecting suppliers, workshops, and customers in Costa Rica’s automotive spare parts market.
+
+### Survey System
+
+Developed a containerized backend survey management platform with real-time collaboration and distributed services.
+
+### Containerized DNS Resolution System
+
+Built core API microservices for a distributed DNS platform with geolocation-aware routing, health-based resolution, and dynamic DNS records.
+
+---
+
+## Connect With Me
+
+Email: **[samuel.valverde.2802@gmail.com](mailto:samuel.valverde.2802@gmail.com)** ·
+LinkedIn: **[samuelvalverdearguedas](linkedin.com/in/samuelvalverdearguedas)** ·
+GitHub: **[samvalverde](github.com/samvalverde)**
